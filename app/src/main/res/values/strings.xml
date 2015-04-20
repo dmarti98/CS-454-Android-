@@ -1,0 +1,6 @@
+<resources>
+<string name="hello_world">Hello World!!!</string>
+<string name="app_name">PairODice2</string>
+<string name="roll">Roll!</string>
+<string name="action_settings">Settings</string>
+</resources>
